@@ -1,0 +1,1 @@
+This App implements layout manager and event listeners in detail.
